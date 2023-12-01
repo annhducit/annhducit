@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Duc IT</h1>
-<h3 align="center">A passionate Web developer from Vietnam</h3>
+<h3 align="center">A passionate Web Developer (React + Spring boot)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annhducit&label=Profile%20views&color=0e75b6&style=flat" alt="annhducit" /> </p>
 
