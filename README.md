@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **trongduc05032002@gmail.com**
 
-- 📄 Know about my experiences [My portfolio](link)
+- 📄 Know about my experiences [My portfolio](https://my-portfolio-annhducit.vercel.app/)
 
 - ⚡ Fun fact **I'm a person who fascinating reading**
 
