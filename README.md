@@ -14,7 +14,7 @@
   <a href="https://dev.to/annhducit">
     <img alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
-  <a href="mailto:trongduc05032002@gmail.com">
+  <a href="mailto:nguyentrongduc.dev@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=annhducit&label=Views&color=0e75b6&style=for-the-badge" />
@@ -29,7 +29,7 @@
 - 🌱 Currently going deeper on **system design** and **performance engineering**
 - 💬 Happy to talk about **React, Next.js, TypeScript** — or anything frontend
 - 📖 Fun fact: I'm a person who finds reading fascinating
-- 📫 Reach me at **trongduc05032002@gmail.com**
+- 📫 Reach me at **nguyentrongduc.dev@gmail.com**
 
 ---
 
