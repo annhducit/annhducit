@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Đức 👋</h1>
 
 <p align="center">
-  <b>Software Engineer</b> · React &amp; Spring Boot · Ho Chi Minh City, Vietnam
+  <b>Software Engineer</b> · Full-stack TypeScript · Ho Chi Minh City, Vietnam
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@
 ## About me
 
 - 🎓 Studying **Software Engineering** at Ton Duc Thang University
-- 🧩 I build full-stack web apps — **React / Next.js** on the front, **Spring Boot / Node.js** behind them
+- 🧩 I build full-stack products end to end — **Next.js / React 19** on the front, **NestJS + Fastify** or **Supabase** behind them, **Drizzle + PostgreSQL** underneath
+- 🔐 Lately: multi-tenant data isolation with **Postgres RLS**, and typed-end-to-end domains with **Effect-TS**
 - 🌱 Currently going deeper on **system design** and **performance engineering**
-- 💬 Happy to talk about **React, Next.js, TypeScript** — or anything frontend
-- 📖 Fun fact: I'm a person who finds reading fascinating
+- 💬 Happy to talk about **TypeScript, Next.js, API design** — or anything frontend
 - 📫 Reach me at **nguyentrongduc.dev@gmail.com**
 
 ---
@@ -39,43 +39,62 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL / PLpgSQL](https://img.shields.io/badge/SQL%20%2F%20PLpgSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack%20Query%20%2F%20Form-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
-**Backend &amp; data**
+**Backend & data**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Effect-TS](https://img.shields.io/badge/Effect--TS-5B5BD6?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E5322D?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**Tooling &amp; infra**
+**Tooling & infra**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<sub>Also worked with: Kafka · Kubernetes · MongoDB · MySQL · SQL Server · Express · Svelte · Redux</sub>
+
+---
+
+## What I'm building
+
+**Dentra** — dental clinic & lab management platform <sub>(private)</sub>
+
+> pnpm + Turborepo monorepo · NestJS 11 on Fastify · Drizzle + PostgreSQL with row-level-security multi-tenancy · Redis + BullMQ jobs · Effect-TS schemas shared between API and web · Next.js 15 + React 19 + Tailwind v4 front end · JWT + argon2 + TOTP 2FA · Docker Compose, S3, GitHub Actions
+
+**Personal Asset Management** — net-worth tracking, portfolio drift & rebalancing <sub>(private)</sub>
+
+> Next.js 16 App Router with Server Actions · Supabase auth + SSR · Drizzle + PostgreSQL, RLS policies in PL/pgSQL · Zod + drizzle-zod validation · TanStack Query & Form · Recharts dashboards · i18n, light/dark theming
 
 ---
 
@@ -83,12 +102,12 @@
 
 | Project | Stack | Stars |
 | :-- | :-- | :-- |
-| **[TaskSmart UI](https://github.com/annhducit/TaskSmart_UI)** — using a large language model to generate task categories | TypeScript | |
-| **[JobNet](https://github.com/annhducit/jobnet-system)** | TypeScript | ⭐ 1 |
-| **[E-commerce](https://github.com/annhducit/e-commerce-project)** | TypeScript | ⭐ 2 |
-| **[Order management](https://github.com/annhducit/module-order-management-system)** | JavaScript | ⭐ 2 |
-| **[Job portal](https://github.com/annhducit/job-portal-project)** | HTML | ⭐ 2 |
-| **[Simple movies](https://github.com/annhducit/react-simple-movies)** | React | ⭐ 2 |
+| **[TaskSmart UI](https://github.com/annhducit/TaskSmart_UI)** — using a large language model to generate task categories | TypeScript | ⭐ 1 |
+| **[JobNet](https://github.com/annhducit/jobnet-system)** | TypeScript | ⭐ 2 |
+| **[E-commerce](https://github.com/annhducit/e-commerce-project)** | TypeScript | ⭐ 3 |
+| **[Order management](https://github.com/annhducit/module-order-management-system)** | JavaScript | ⭐ 3 |
+| **[Job portal](https://github.com/annhducit/job-portal-project)** | HTML | ⭐ 3 |
+| **[Simple movies](https://github.com/annhducit/react-simple-movies)** | React | ⭐ 3 |
 
 <sub>More in <a href="https://github.com/annhducit?tab=repositories">all repositories</a>.</sub>
 
