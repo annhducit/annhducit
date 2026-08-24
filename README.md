@@ -117,9 +117,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=default&hide_border=true" />
-    <img alt="GitHub streak stats for annhducit" src="https://streak-stats.demolab.com?user=annhducit&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/annhducit" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/216e39/annhducit" />
+    <img alt="Contribution chart for annhducit" src="https://ghchart.rshah.org/annhducit" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&theme=github-compact&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&theme=minimal&hide_border=true&area=true" />
+    <img alt="Contribution activity graph for annhducit" src="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&hide_border=true&area=true" width="100%" />
   </picture>
 </p>
 
