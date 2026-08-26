@@ -24,12 +24,16 @@
 
 ## About me
 
-- 🎓 Studying **Software Engineering** at Ton Duc Thang University
-- 🧩 I build full-stack products end to end — **Next.js / React 19** on the front, **NestJS + Fastify** or **Supabase** behind them, **Drizzle + PostgreSQL** underneath
-- 🔐 Lately: multi-tenant data isolation with **Postgres RLS**, and typed-end-to-end domains with **Effect-TS**
-- 🌱 Currently going deeper on **system design** and **performance engineering**
-- 💬 Happy to talk about **TypeScript, Next.js, API design** — or anything frontend
-- 📫 Reach me at **nguyentrongduc.dev@gmail.com**
+Full-stack engineer working end to end in TypeScript — from typed Postgres schemas up to production React.
+Finishing a **Software Engineering** degree at **Ton Duc Thang University** while shipping multi-tenant SaaS products.
+
+|                  |                                                                                                |
+| :--------------- | :--------------------------------------------------------------------------------------------- |
+| **Focus**        | Next.js / React 19 · NestJS on Fastify · Drizzle + PostgreSQL · Supabase                        |
+| **Working on**   | Multi-tenant data isolation with Postgres **RLS**, end-to-end typed domains with **Effect-TS**  |
+| **Learning**     | System design · performance engineering                                                         |
+| **Ask me about** | TypeScript · Next.js · API design · frontend architecture                                       |
+| **Contact**      | [nguyentrongduc.dev@gmail.com](mailto:nguyentrongduc.dev@gmail.com)                             |
 
 ---
 
@@ -125,9 +129,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img alt="Contribution streak for annhducit" src="https://streak-stats.demolab.com?user=annhducit&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/annhducit/annhducit/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/annhducit/annhducit/output/snake-light.svg" />
+    <img alt="Contribution snake for annhducit" src="https://raw.githubusercontent.com/annhducit/annhducit/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
 
