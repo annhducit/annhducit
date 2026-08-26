@@ -125,9 +125,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&theme=github-compact&hide_border=true&area=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&theme=minimal&hide_border=true&area=true" />
-    <img alt="Contribution activity graph for annhducit" src="https://github-readme-activity-graph.vercel.app/graph?username=annhducit&hide_border=true&area=true" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=annhducit&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <img alt="Contribution streak for annhducit" src="https://streak-stats.demolab.com?user=annhducit&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%" />
   </picture>
 </p>
 
